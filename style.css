@@ -1,0 +1,46 @@
+body {
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+.banner-design {
+    background-image: url(images/donation13.jpg);
+    background-position: 50% 100%;
+    color: white;
+    text-align: center;
+    margin: -4% -1%;
+    padding: 5%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+h1 {
+    font-size: 100px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.button {
+    background-color: tomato;
+    font-weight: 900;
+    text-decoration: none;
+    padding: 20px 50px;
+    border-radius: 5% 5%;
+    color: white;
+    font-size: 40px;
+
+}
+
+.donate {
+    text-align: center;
+    margin-top: 10%;
+
+}
+
+#donate {
+    color: gray;
+}
