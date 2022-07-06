@@ -25,7 +25,7 @@ h3 {
 }
 
 .button {
-    background-color: tomato;
+    background-color: #FF5959;
     font-weight: 900;
     text-decoration: none;
     padding: 20px 50px;
@@ -43,4 +43,32 @@ h3 {
 
 #donate {
     color: gray;
+}
+
+button {
+    padding: 50px 40px;
+    font-size: 50px;
+    color: gray;
+    margin: 60px 25px;
+    border-radius: 5%;
+    text-align: justify;
+    border-style: hidden;
+
+
+}
+
+#click {
+    display: flex;
+    margin-left: 250px;
+
+}
+
+#average {
+    border-color: rgb(224, 49, 18);
+    background-color: rgb(209, 136, 124);
+    color: tomato
+}
+
+#input-data {
+    border: none;
 }
